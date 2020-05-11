@@ -22,6 +22,7 @@ SERVICES = {
     'Altötting': 'aoe',
     #'Bad Homburg vdH': 'hom',
     'Lübbecke': 'lue',
+    'Ingolstadt': 'ingol',
     #'Hattersheim am Main': 'ham',
     'Barnim': 'bdg',
     'Minden': 'sbm',
