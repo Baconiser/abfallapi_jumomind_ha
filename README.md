@@ -1,4 +1,5 @@
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/custom-components/hacs)
+# Fork of https://github.com/tuxuser/abfallapi_jumomind_ha with added Ingolstadt
 
 # Home Assistant sensor for german waste collection schedule (Jumomind)
 
@@ -17,12 +18,12 @@ Supported services:
 * Rhein-Hunsrück
 * Recklinghausen
 * Uckermark
+* Ingolstadt
 
 Non-working:
 
 * Bad Homburg vdH
 * Hattersheim am Main
-* Ingolstadt
 * Groß-Gerau
 
 ![alt text](https://github.com/tuxuser/abfallapi_jumomind_ha/blob/master/preview1.png "glance card")
